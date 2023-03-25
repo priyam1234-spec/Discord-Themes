@@ -9,7 +9,7 @@
 */
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn');
+@import url('https://fonts.googleapis.com/css2?family=Kanit');
 :root {
 --background-image: url('https://imgur.com/2BZZeD4.gif');
 --background-image-blur: 0px;
@@ -37,7 +37,7 @@
 --scrollbar-colour: #ffffff0d;
 --link-colour: #00b0f4;
 --show-gift-gif-buttons: no-repeat;
---font: 'Delicious Handrawn';
+--font: 'Kanit';
 --update-notice-1: none;
 --rs-small-spacing: 2px;
 --rs-medium-spacing: 3px;
