@@ -8,8 +8,9 @@
 * @website https://betterdiscord.app/theme/NotAnotherAnimeTheme
 */
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
-@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url("https://discordstyles.github.io/MinimalCord/dist/MinimalCord.css");
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn');
 :root {
 --main-theme-color: #43b581;
 --theme-transparency: #0000008A;
@@ -84,5 +85,8 @@
 --rs-streaming-color: #643da7;
 --rs-invisible-color: #747f8d;
 --rs-phone-visible: block;
---customFont: 'Delicious Handrawn';
+ --accent: 50,131,207;
+--message-padding: 10px;
+--message-spacing: 10px;
+--font: 'Delicious Handrawn';
 }
