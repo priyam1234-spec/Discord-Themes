@@ -12,7 +12,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit');
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
 :root {
---background-image: url('https://imgur.com/2BZZeD4.gif');
+--background-image: url('https://i.imgur.com/U2iBVbG.gif');
 	--settingsmodalbackground: 	transparent;			/* default:	transparent		(lowest bg color of changed windows, change it in case another theme turns them transparent)	*/
 	--settingsmodalwidth: 		960px;					/* default:	960px			(width of the settings modal, px/vw)															*/
 	--settingsmodalheight: 		80vh;					/* default:	80vh			(height of the settings modal, px/vh)	*/
