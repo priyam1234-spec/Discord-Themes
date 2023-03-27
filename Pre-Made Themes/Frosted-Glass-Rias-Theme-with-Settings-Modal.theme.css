@@ -7,11 +7,13 @@
 * @Source https://github.com/DiscordStyles/FrostedGlass
 * @website https://betterdiscord.app/theme/Frosted%20Glass
 */
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani');
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
 :root {
+--unread-server-animation: rainbow;
 --background-image: url('https://i.imgur.com/U2iBVbG.gif');
 --background-image-blur: 0px;
 --background-image-size: cover;
