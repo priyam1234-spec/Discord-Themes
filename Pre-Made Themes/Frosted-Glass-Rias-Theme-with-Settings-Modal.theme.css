@@ -1,5 +1,5 @@
 /**
- * @name Rias x Issei Theme - Based on High School DxD
+ * @name amonguss
  * @author Gibbu#1211
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness.
@@ -22,6 +22,11 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
   --background-image: url('https://i.imgur.com/U2iBVbG.gif');
@@ -29,12 +34,12 @@
   --background-image-size: cover;
   --background-image-position: center;
   --popout-image: url('https://i.imgur.com/WDflLXA.jpg');
-  --popout-image-blur: 0px;
+  --popout-image-blur: 1px;
   --popout-image-size: cover;
   --popout-image-position: center;
   --overlay-image: url('https://i.imgur.com/0Oigtyu.jpg');
   --overlay-image-blur: 1px;
-  --overlay-image-size: contain;
+  --overlay-image-size: cover;
   --overlay-image-position: center;
   --home-button-image: url('https://i.imgur.com/YaSXk0E.gif');
   --home-button-size: cover;
@@ -55,6 +60,19 @@
   --window-padding: 20px;
   --window-roundness: 20px;
   --update-notice-1: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
 }
 
 /* Any custom CSS below here */
